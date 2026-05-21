@@ -1,0 +1,9 @@
+ol li:not(:first-child, :last-child) {
+    background: #adf;
+}
+
+section h2:not(.contato) {
+
+    text-decoration: underline;
+
+}

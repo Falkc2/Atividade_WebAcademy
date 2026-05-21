@@ -1,0 +1,16 @@
+body {
+    background-color: #121212;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Seleciona h1 e o p */
+
+h1, p {
+    color: blue;
+}
+
+/* Seleciona a dentro de p */
+
+p a {
+    color: green;
+}
