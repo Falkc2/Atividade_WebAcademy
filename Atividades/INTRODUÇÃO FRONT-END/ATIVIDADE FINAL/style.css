@@ -1,0 +1,60 @@
+body {
+    
+    color: aliceblue;
+    font-family: arial;
+    
+}
+
+span {
+
+    color: #febe01;
+
+}
+
+p {
+
+    color: #b2b2b2;
+
+}
+
+button {
+
+    height: 50px;
+    width: 200px;
+    background-color: #febe01;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 20px;
+
+}
+
+
+.curso {
+
+    color: #111;
+    text-align: center;
+
+}
+
+ .principal{
+
+    width: 700px;
+    height: auto;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #332200; 
+    padding: 20px;
+    margin: 20px;
+
+}
+
+.container {
+
+    width: auto;
+    height: auto;
+    background-color:  #111 ;
+    border: 1px solid #332200; 
+    padding: 20px;
+    margin: 5px;
+    border-radius: 10px;
+
+}
